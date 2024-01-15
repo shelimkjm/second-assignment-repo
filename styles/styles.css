@@ -122,3 +122,78 @@ line-height: 26px; /
 .fa-solid{
     margin: 10px;
 }
+
+/* this is section style-2 */
+
+.main-section-2{
+    max-width: 1200px;
+    margin: 70px auto;
+ 
+  
+}
+.container-2{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.section-2-contain{
+width: 50%;
+    flex-wrap: wrap;
+}
+
+.primary-text{
+    color: rgba(19, 19, 24, 0.70);
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px
+}
+.section-2-header{
+    color: #131318;
+font-family: Mulish;
+font-size: 40px;
+font-weight: 800;
+
+}
+
+
+/* this is footer style */
+
+
+footer{
+ 
+    max-width: 1200px;
+min-height: 300px;
+margin: 0 auto;
+    background: rgba(19, 19, 24, 0.05);
+}
+
+.footer-container{
+    text-align: center;
+}
+
+.fa-brands{
+    margin-left: 20px;
+   font-size: 30px;
+   margin-top: 20px;
+}
+.footertype{
+  
+    text-align: center;
+}
+hr{
+   margin: 20px;
+    background: rgba(19, 19, 24, 0.10);
+}
+small{
+    color: #131318;
+font-family: Inter;
+font-size: 16px;
+font-weight: 300;
+
+}
+.footer-header{
+    display: flex;
+    justify-content: center;
+}
+/* footer finished */
