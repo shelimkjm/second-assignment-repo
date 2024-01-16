@@ -155,6 +155,32 @@ font-size: 40px;
 font-weight: 800;
 
 }
+
+/* this is 3 section style */
+.main-contain-3{
+    max-width: 1200px;
+    margin:0 auto;
+}
+.contain-3{
+
+   text-align: center;
+}
+.section-3-img-1{
+
+    display: flex;
+}
+.section-3-img-2{
+    display: flex;
+}
+.section-3{
+    margin: 10px;
+    width: 100%;
+}
+.section-3-img-3{
+    display: flex;
+}
+
+
 /* this is main section-4style> start */
 
 .section-4{
